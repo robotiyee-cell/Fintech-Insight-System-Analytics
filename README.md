@@ -3,6 +3,9 @@
 
 **Author:** Robotiyee  
 **Date:** October 2025  
+**Status:** In Development (Demo Project)  
+Completed BRD, FRD, Project Management, and QA documentation phases.  
+Currently focusing on technical development, data integration, and Power BI/ML implementation.
 
 ---
 
@@ -49,7 +52,7 @@ CRM → SAP → Data Warehouse → Power BI → ML/LLM Engine → FCA Reporting
 | [FRD – Functional Requirements](./docs/FRD-Insurance.pdf) | Technical implementation of URs, FRs, data flows, and integration logic. |
 | [PM – Project Management](./docs/PM-Insurance.pdf) | Governance, change management, Jira mapping, and story point estimation. |
 | [QA – Quality Assurance](./docs/QA-Insurance.pdf) | Test cases, NFR validation, and acceptance criteria. |
-| [Technical Development](./docs/Technical-Development.pdf) | SQL, Python ML, LLM design, Power BI implementation notes. |
+| In Development | SQL, Python ML, LLM design, Power BI implementation notes. |
 
 ---
 
