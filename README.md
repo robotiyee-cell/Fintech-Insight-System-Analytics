@@ -75,4 +75,21 @@ CRM → SAP → Data Warehouse → Power BI → ML/LLM Engine → FCA Reporting
 
 ## 🧠 Business Impact  
 
-- Reduced financial reporting time b
+- Reduced financial reporting time by **70%**.  
+- Improved compliance accuracy and traceability across multiple systems.  
+- Enhanced decision-making speed through **real-time dashboards** and **AI-assisted summaries**.  
+- Demonstrated capability for **AI-based automation** within regulated environments (FCA/IFRS).
+
+---
+
+## 🧩 Author  
+
+**Robotiyee**  
+- 💼 Data Analytics, AI & FinTech Solutions  
+- 📧 robotiyee@gmail.com  
+- 🧠 Portfolio: [https://robotiyee-cell.github.io/Fintech-Insight-System](https://robotiyee-cell.github.io/Fintech-Insight-System)
+
+---
+
+### © 2025 Robotiyee | Intelligent Financial Insight System
+*Hosted with ❤️ on [GitHub Pages](https://pages.github.com/)*
