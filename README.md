@@ -4,8 +4,8 @@
 **Author:** Robotiyee  
 **Date:** October 2025  
 **Status:** In Development (Demo Project)  
-Completed BA process; BR, FR, Project Management, and QA phases.  
-Working on technical development, data integration, and Power BI/ML implementation.
+Completed full Business Analysis lifecycle — covering Business Requirements, Functional Requirements, Project Management, and QA documentation.
+Currently progressing with technical development, data pipeline integration, and Power BI / ML module implementation.
 
 ---
 
