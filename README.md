@@ -4,8 +4,8 @@
 **Author:** Robotiyee  
 **Date:** October 2025  
 **Status:** In Development (Demo Project)  
-Completed BRD, FRD, Project Management, and QA documentation phases.  
-Currently focusing on technical development, data integration, and Power BI/ML implementation.
+Completed BA process; BR, FR, Project Management, and QA phases.  
+Working on technical development, data integration, and Power BI/ML implementation.
 
 ---
 
