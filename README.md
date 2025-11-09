@@ -48,10 +48,10 @@ CRM → SAP → Data Warehouse → Power BI → ML/LLM Engine → FCA Reporting
 
 | Document | Description |
 |-----------|-------------|
-| [BRD – Business Requirements](./docs/BRD-Insurance.pdf) | Defines business objectives, FCA compliance, and AS-IS/TO-BE workflows. |
-| [FRD – Functional Requirements](./docs/FRD-Insurance.pdf) | Technical implementation of URs, FRs, data flows, and integration logic. |
-| [PM – Project Management](./docs/PM-Insurance.pdf) | Governance, change management, Jira mapping, and story point estimation. |
-| [QA – Quality Assurance](./docs/QA-Insurance.pdf) | Test cases, NFR validation, and acceptance criteria. |
+| [BRD – Business Requirements](docs/BRD-Insurance.docx) | Defines business objectives, FCA compliance, and AS-IS/TO-BE workflows. |
+| [FRD – Functional Requirements](./docs/FRD-Insurance.docx) | Technical implementation of URs, FRs, data flows, and integration logic. |
+| [PM – Project Management](./docs/PM-Insurance.docx) | Governance, change management, Jira mapping, and story point estimation. |
+| [QA – Quality Assurance](./docs/QA-Insurance.docx) | Test cases, NFR validation, and acceptance criteria. |
 | In Development | SQL, Python ML, LLM design, Power BI implementation notes. |
 
 ---
