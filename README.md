@@ -56,13 +56,6 @@ CRM → SAP → Data Warehouse → Power BI → ML/LLM Engine → FCA Reporting
 
 ---
 
-## 📊 Live Demos  
-
-- **Power BI Dashboard:** [View FCA Compliance Dashboard](https://app.powerbi.com/view?r=YOUR_EMBED_LINK)  
-- **Streamlit App:** [Claims Forecasting Demo](https://robotiyee-demo.streamlit.app)  
-- **LLM Narrative Generator:** [Hugging Face Space](https://huggingface.co/spaces/robotiyee/finance-narratives)  
-
----
 
 ## 📈 Performance KPIs  
 
