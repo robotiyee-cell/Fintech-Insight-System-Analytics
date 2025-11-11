@@ -56,7 +56,6 @@ CRM → SAP → Data Warehouse → Power BI → ML/LLM Engine → FCA Reporting
 
 ---
 
-FCA_IFRS17_Report_1.sql
 
 ## 📘 SQL Files
 
