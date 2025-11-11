@@ -59,8 +59,8 @@ CRM → SAP → Data Warehouse → Power BI → ML/LLM Engine → FCA Reporting
 FCA_IFRS17_Report_1.sql
 
 ## 📘 SQL Files
-FCA_IFRS17_Report_1.sql Creates base reporting tables combining claim, commission, and exposure data for IFRS 17 compliance. Includes key joins and preliminary metrics for Power BI ingestion.
-FCA_IFRS17_Report_2.sql Generates detailed financial insights and KPI metrics (Loss Ratio, Commission Ratio, Revenue Variance). Used as the final dataset for FCA/IFRS dashboards.
+docs/FCA_IFRS17_Report_1.sql Creates base reporting tables combining claim, commission, and exposure data for IFRS 17 compliance. Includes key joins and preliminary metrics for Power BI ingestion.
+docs/FCA_IFRS17_Report_2.sql Generates detailed financial insights and KPI metrics (Loss Ratio, Commission Ratio, Revenue Variance). Used as the final dataset for FCA/IFRS dashboards.
 
 ## 📈 Performance KPIs  
 
