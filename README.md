@@ -99,7 +99,6 @@ Click the link to explore:
 
 - Revenue & Claims trend  
 - UPR recognition pattern  
-- LRC / LIC risk movement  
 - Operational claim anomalies  
 - Loss Ratio forecasting  
 
@@ -110,13 +109,6 @@ Click the link to explore:
 (https://public.tableau.com/app/profile/robo.tiye/viz/IFRS_FCA_Dashboard/IFRS-FCADashboard)
 
 ---
-
-## 📄 Project Files
-- IFRS17 SQL Engine  
-- IFRS17 Power BI Report  
-- Tableau Dashboard  
-- PDF version  
-
 
 
 ## 📈 Performance KPIs  
