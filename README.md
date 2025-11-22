@@ -21,8 +21,8 @@ This solution supports both **regulatory compliance (FCA, IFRS)** and **strategi
 
 ## ⚙️ Key Features  
 
-| Category | Description |
-|-----------|-------------|
+| Category             | Description                                                                                        |
+|----------------------|----------------------------------------------------------------------------------------------------|
 | 🧩 **Compliance Integration** | Implements mandatory “Risk Exposure Category” across CRM–SAP–DW–Power BI for FCA alignment. |
 | ⚙️ **Automation** | End-to-end ETL framework using Python for data quality, validation, and synchronization. |
 | 🤖 **AI/ML Intelligence** | Predictive models for claims and commission forecasts; 90%+ model accuracy. |
@@ -31,6 +31,7 @@ This solution supports both **regulatory compliance (FCA, IFRS)** and **strategi
 | 🛡️ **Governance & QA** | RBAC, audit logging, performance monitoring, and test automation for each FR and NFR. |
 
 ---
+
 
 ## 🧱 Architecture Overview  
 
