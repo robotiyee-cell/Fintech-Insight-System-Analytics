@@ -107,7 +107,7 @@ Click the link to explore:
 
 ## 🖼 Preview
 [![Dashboard Preview](https://github.com/robotiyee-cell/Fintech-Insight-System-Analytics/blob/main/TableauDashboard.pdf)]
-(https://public.tableau.com/app/profile/robo.tiye/viz/IFRS_FCA_Dashboard/IFRS-FCADashboard?publish=yes)
+(https://public.tableau.com/app/profile/robo.tiye/viz/IFRS_FCA_Dashboard/IFRS-FCADashboard)
 
 ---
 
