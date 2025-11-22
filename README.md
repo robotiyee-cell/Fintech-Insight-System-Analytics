@@ -64,6 +64,22 @@ CRM → SAP → Data Warehouse → Power BI → ML/LLM Engine → FCA Reporting
 | [FCA_IFRS17_Report_2.sql](https://github.com/robotiyee-cell/Fintech-Insight-System-Analytics/blob/main/FCA_IFRS17_Report_1.sql) | 
 | Produces the **final FCA-compliant reporting output**, including Loss Ratio, Commission Ratio, and month-over-month variance. Serves as the input dataset for the IFRS 17 & FCA Insights dashboard.     |
 
+## 📘 PowerBI Dashboard 
+This repository includes the full PDF export of the IFRS 17 & FCA Insights Power BI dashboard.
+
+
+👉|[View IFRS 17 Dashboard (PDF](https://github.com/robotiyee-cell/Fintech-Insight-System-Analytics/blob/main/IFRS 17 & FCA Insights.pdf)| 
+
+The PDF includes:
+KPI Cards
+Claims vs Revenue Trend (2025)
+Commission, LIC, LRC, UPR amounts
+Revenue Recognised vs Total Claims monthly chart
+Premium Amount distribution by Risk Exposure Category
+Product Type share (Travel – 100%)
+Detailed policy-level table
+Yearly & quarterly summary tables
+Scatter analysis of Total Revenue vs Total Claims
 
 ## 📈 Performance KPIs  
 
