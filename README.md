@@ -68,7 +68,7 @@ CRM → SAP → Data Warehouse → Power BI → ML/LLM Engine → FCA Reporting
 ## 📘 PowerBI Dashboard 
 This repository includes the full PDF export of the IFRS 17 & FCA Insights Power BI dashboard.
 
-👉|[View IFRS 17 Dashboard (PDF](https://github.com/robotiyee-cell/Fintech-Insight-System-Analytics/blob/main/IFRS_FCA _Insights.pdf)| 
+👉|[View IFRS 17 Dashboard (PDF)](https://github.com/robotiyee-cell/Fintech-Insight-System-Analytics/blob/main/IFRS_FCA_Insights.pdf)| 
 
 The PDF includes:
 KPI Cards
