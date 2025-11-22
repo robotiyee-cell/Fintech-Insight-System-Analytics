@@ -71,15 +71,16 @@ This repository includes the full PDF export of the IFRS 17 & FCA Insights Power
 👉|[View IFRS 17 Dashboard (PDF)](https://github.com/robotiyee-cell/Fintech-Insight-System-Analytics/blob/main/IFRS_FCA_Insights.pdf)| 
 
 The PDF includes:
-KPI Cards
-Claims vs Revenue Trend (2025)
-Commission, LIC, LRC, UPR amounts
-Revenue Recognised vs Total Claims monthly chart
-Premium Amount distribution by Risk Exposure Category
-Product Type share (Travel – 100%)
-Detailed policy-level table
-Yearly & quarterly summary tables
-Scatter analysis of Total Revenue vs Total Claims
+ 
+- KPI Cards
+- Claims vs Revenue Trend (2025)
+- Commission, LIC, LRC, UPR amounts
+- Revenue Recognised vs Total Claims monthly chart
+- Premium Amount distribution by Risk Exposure Category
+- Product Type share (Travel – 100%)
+- Detailed policy-level table
+- Yearly & quarterly summary tables
+- Scatter analysis of Total Revenue vs Total Claims
 
 ## 📈 Performance KPIs  
 
