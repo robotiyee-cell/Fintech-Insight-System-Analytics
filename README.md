@@ -69,9 +69,31 @@ CRM → SAP → Data Warehouse → Power BI → ML/LLM Engine → FCA Reporting
 
 
 # 📊 IFRS 17 & FCA Insurance Analytics Dashboard
-
 This project includes a complete IFRS17-compliant insurance analytics dashboard built using **Tableau**, **Power BI**, and **SQL IFRS Engine**.
 
+## 📊 Synthetic IFRS/FCA Dataset Generator (Python)
+
+This repository contains a Python script that generates a 1,000,000-row synthetic insurance dataset from an existing IFRS/FCA report.
+It enhances and diversifies multiple fields while maintaining the original schema for analytics, dashboards, and AI models.
+All generated data is fully synthetic and contains no real PII.
+Output is UTF-8 encoded and fully compatible with Tableau, Power BI, SQL Server, Python ML pipelines, etc.
+Expands your base dataset to 1M clean synthetic rows and outputs a ready-to-use CSV file.
+
+▶️ Run the Generator
+python generate_synthetic_ifrs_3.py 
+
+IFRS_FCA_Report.csv
+IFRS_FCA_Report_1M_synthetic.csv   (generated)
+
+▶️This enhanced dataset is used for:
+
+- Power BI & Tableau trend / risk analysis
+- SQL database & DWH performance testing
+- LLM-based financial insight engines (Python + OpenAI/LangChain)
+- IFRS17 / FCA reporting simulations
+- Machine Learning models (loss ratio, forecasting, anomaly detection)
+
+---
 
 ## 📘 PowerBI Dashboard 
 This repository includes the full PDF export of the IFRS 17 & FCA Insights Power BI dashboard.
