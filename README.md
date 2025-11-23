@@ -80,9 +80,12 @@ Output is UTF-8 encoded and fully compatible with Tableau, Power BI, SQL Server,
 Expands your base dataset to 1M clean synthetic rows and outputs a ready-to-use CSV file.
 
 ▶️ Run the Generator
-python generate_synthetic_ifrs_3.py  (https://github.com/robotiyee-cell/Fintech-Insight-System-Analytics/blob/main/generate_synthetic_ifrs_3.py)
-IFRS_FCA_Report.csv (https://github.com/robotiyee-cell/Fintech-Insight-System-Analytics/blob/main/IFRS_FCA_Report.xlsx)
-IFRS_FCA_Report_1M_synthetic.csv   (generated)
+
+|[python generate_synthetic_ifrs_3.py ](https://github.com/robotiyee-cell/Fintech-Insight-System-Analytics/blob/main/generate_synthetic_ifrs_3.py)| 
+
+|[IFRS_FCA_Report.csv](https://github.com/robotiyee-cell/Fintech-Insight-System-Analytics/blob/main/IFRS_FCA_Report.xlsx)| 
+
+👉IFRS_FCA_Report_1M_synthetic.csv   (generated)
 
 ▶️This enhanced dataset is used for:
 - Power BI & Tableau trend / risk analysis
@@ -115,7 +118,10 @@ The PDF includes:
 ## 🔗 Live Interactive Dashboard (Tableau Public)
 👉 https://public.tableau.com/app/profile/robo.tiye/viz/TableauDashboard_17638913769560/IFRS-FCADashboard
 
-# Insight Summary
+## 🖼 Preview
+[![Dashboard Preview](https://github.com/robotiyee-cell/Fintech-Insight-System-Analytics/blob/main/TableauDashboard.pdf)]
+
+## 🔗 Insight Summary
 
 - Premiums and Revenue show steady long-term growth, with peaks around mid-period and stable performance afterward.
 - Claims activity is volatile but declines over time, indicating improved operational risk control.
@@ -123,11 +129,6 @@ The PDF includes:
 - UPR consistently decreases, signaling a maturing book and lower future service obligations under IFRS17.
 - Revenue vs Claims maintains a positive gap, with no critical FCA risk indicators observed.
 Overall: Portfolio performance improves across the period with strengthening profitability, stabilizing risk metrics, and no major regulatory red flags.
-
----
-
-## 🖼 Preview
-[![Dashboard Preview](https://github.com/robotiyee-cell/Fintech-Insight-System-Analytics/blob/main/TableauDashboard.pdf)]
 
 ---
 
