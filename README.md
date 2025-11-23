@@ -93,7 +93,7 @@ The PDF includes:
 ---
 
 ## 🔗 Live Interactive Dashboard (Tableau Public)
-👉 https://public.tableau.com/app/profile/robo.tiye/viz/IFRS_FCA_Dashboard/IFRS-FCADashboard?publish=yes
+👉 https://public.tableau.com/app/profile/robo.tiye/viz/TableauDashboard_17638913769560/IFRS-FCADashboard
 
 Click the link to explore:
 
