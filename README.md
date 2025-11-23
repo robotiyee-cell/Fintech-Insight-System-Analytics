@@ -80,8 +80,7 @@ Output is UTF-8 encoded and fully compatible with Tableau, Power BI, SQL Server,
 Expands your base dataset to 1M clean synthetic rows and outputs a ready-to-use CSV file.
 
 ▶️ Run the Generator
-python generate_synthetic_ifrs_3.py 
-
+python generate_synthetic_ifrs_3.py  (https://github.com/robotiyee-cell/Fintech-Insight-System-Analytics/blob/main/generate_synthetic_ifrs_3.py)
 IFRS_FCA_Report.csv
 IFRS_FCA_Report_1M_synthetic.csv   (generated)
 
