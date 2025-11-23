@@ -95,12 +95,14 @@ The PDF includes:
 ## 🔗 Live Interactive Dashboard (Tableau Public)
 👉 https://public.tableau.com/app/profile/robo.tiye/viz/TableauDashboard_17638913769560/IFRS-FCADashboard
 
-Click the link to explore:
+# Insight Summary
 
-- Revenue & Claims trend  
-- UPR recognition pattern  
-- Operational claim anomalies  
-- Loss Ratio forecasting  
+- Premiums and Revenue show steady long-term growth, with peaks around mid-period and stable performance afterward.
+- Claims activity is volatile but declines over time, indicating improved operational risk control.
+- Loss Ratio drops sharply after early spikes, reflecting stronger underwriting quality and healthier portfolio profitability.
+- UPR consistently decreases, signaling a maturing book and lower future service obligations under IFRS17.
+- Revenue vs Claims maintains a positive gap, with no critical FCA risk indicators observed.
+Overall: Portfolio performance improves across the period with strengthening profitability, stabilizing risk metrics, and no major regulatory red flags.
 
 ---
 
